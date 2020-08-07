@@ -1,0 +1,7 @@
+#This code is written in python
+
+while True:
+    i = int(input())
+    if i == 42:
+        break
+    print(i)
